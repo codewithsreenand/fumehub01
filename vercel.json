@@ -1,5 +1,4 @@
 {
-  "//": "Root-level Vercel config to build and serve the Fumehub Vite app from /fumehub",
   "framework": "vite",
   "buildCommand": "cd fumehub && npm run build",
   "outputDirectory": "fumehub/dist",
