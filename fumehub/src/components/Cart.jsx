@@ -1,7 +1,16 @@
 import { motion, AnimatePresence } from 'framer-motion'
+import { useNavigate } from 'react-router-dom'
 import './Cart.css'
 
 const Cart = ({ isOpen, onClose, cart, removeFromCart, updateQuantity, total }) => {
+  const navigate = useNavigate()
+
+  const handleCheckout = () => {
+    // For now, just navigate to a placeholder checkout page
+    if (cart.length === 0) return
+    onClose()
+    navigate('/checkout')
+  }
   return (
     <AnimatePresence>
       {isOpen && (
@@ -85,11 +94,11 @@ const Cart = ({ isOpen, onClose, cart, removeFromCart, updateQuantity, total }) 
                     ))}
                   </div>
                   <div className="cart-footer">
-                    <div className="cart-total">
-                      <span className="total-label">Total</span>
-                      <span className="total-amount">S${total.toFixed(2)}</span>
-                    </div>
-                    <button className="checkout-btn">
+                  <div className="cart-total">
+                    <span className="total-label">Total</span>
+                    <span className="total-amount">S${total.toFixed(2)}</span>
+                  </div>
+                    <button className="checkout-btn" onClick={handleCheckout}>
                       Proceed to Checkout
                     </button>
                   </div>

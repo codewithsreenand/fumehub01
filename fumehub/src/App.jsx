@@ -12,6 +12,7 @@ import ProductDetail from './components/ProductDetail'
 import CategoryProducts from './components/CategoryProducts'
 import ScrollToTop from './components/ScrollToTop'
 import Login from './components/Login'
+import Checkout from './pages/Checkout'
 import './App.css'
 
 function AppContent() {
@@ -79,6 +80,7 @@ function AppContent() {
           </>
         } />
         <Route path="/login" element={<Login />} />
+        <Route path="/checkout" element={<Checkout />} />
       </Routes>
       <Cart
         isOpen={isCartOpen}
