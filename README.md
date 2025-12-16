@@ -94,3 +94,4 @@ You can treat this root folder as your combined project: backend and frontend li
 You can now evolve this into a single deployable app (e.g., Docker Compose or separate frontend/backend deployments) without changing the core UI/UX.
 
 
+
