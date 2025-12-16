@@ -1,0 +1,10 @@
+{
+  "name": "fumehub-fullstack-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "cd fumehub && npm install && npm run build && rm -rf ../dist && mv dist ../dist"
+  }
+}
+
+
