@@ -1,0 +1,115 @@
+.splash-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, 
+    var(--white) 0%,
+    var(--cream) 50%,
+    var(--white) 100%
+  );
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.splash-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.splash-brand {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.splash-logo {
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-family: 'Dublin', serif;
+  color: var(--brown-dark);
+  letter-spacing: 0.1em;
+  text-align: center;
+  text-shadow: 0 2px 4px rgba(61, 40, 23, 0.1);
+  margin: 0;
+  padding: 0;
+}
+
+.splash-line {
+  height: 2px;
+  background: linear-gradient(90deg, 
+    transparent 0%,
+    var(--brown-medium) 50%,
+    transparent 100%
+  );
+  margin-top: 0.5rem;
+}
+
+.splash-caption {
+  font-size: clamp(1rem, 2vw, 1.2rem);
+  color: var(--text-light);
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.splash-particles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.particle {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: var(--brown-light);
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 768px) {
+  .splash-logo {
+    font-size: 1.5rem;
+    letter-spacing: 0.1em;
+  }
+
+  .splash-caption {
+    font-size: 0.9rem;
+    margin-top: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .splash-logo {
+    font-size: 1.2rem;
+    letter-spacing: 0.1em;
+  }
+
+  .splash-caption {
+    font-size: 0.8rem;
+    margin-top: 1rem;
+  }
+
+  .splash-brand {
+    gap: 1rem;
+  }
+}
+

@@ -1,0 +1,118 @@
+.category-products-page {
+  min-height: 100vh;
+  padding: 8rem 4rem 4rem;
+  background: var(--brown-bg-light);
+}
+
+.category-products-container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.back-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: transparent;
+  color: var(--brown-dark);
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.8rem 1.5rem;
+  margin-bottom: 3rem;
+  border: 1px solid rgba(61, 40, 23, 0.2);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.back-button:hover {
+  background: var(--brown-bg);
+  border-color: var(--brown-medium);
+}
+
+.category-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.category-page-title {
+  font-family: 'Beloved Dream', serif;
+  font-size: clamp(3rem, 6vw, 5rem);
+  font-weight: 500;
+  color: var(--brown-dark);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.category-page-description {
+  font-size: 1.2rem;
+  color: var(--text-light);
+  font-style: italic;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.category-products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 3rem;
+  margin-top: 3rem;
+}
+
+
+.no-products {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--text-light);
+  font-size: 1.1rem;
+}
+
+@media (max-width: 1024px) {
+  .category-products-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .category-products-page {
+    padding: 6rem 2rem 3rem;
+  }
+
+  .category-page-title {
+    font-size: clamp(2.5rem, 8vw, 4rem);
+  }
+
+  .category-page-description {
+    font-size: 1rem;
+  }
+
+  .category-products-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+    justify-items: stretch;
+  }
+}
+
+@media (max-width: 480px) {
+  .category-products-page {
+    padding: 5rem 1.5rem 2rem;
+  }
+
+  .back-button {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  .category-header {
+    margin-bottom: 2rem;
+  }
+
+  .category-products-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.2rem;
+    justify-items: stretch;
+  }
+}
+

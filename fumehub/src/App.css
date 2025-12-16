@@ -1,0 +1,9 @@
+.App {
+  min-height: 100vh;
+  background-color: var(--brown-bg-light);
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
+  position: relative;
+}
+

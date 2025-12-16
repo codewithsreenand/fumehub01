@@ -1,0 +1,201 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Unit Price Total Measure,Unit Price Total Measure Unit,Unit Price Base Measure,Unit Price Base Measure Unit,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Scent Notes (product.metafields.custom.scent_notes),Wear Guide (product.metafields.custom.wear_guide),Product rating count (product.metafields.reviews.rating_count),Occasion (product.metafields.shopify.occasion),Scent (product.metafields.shopify.scent),Season (product.metafields.shopify.season),Target gender (product.metafields.shopify.target-gender),Complementary products (product.metafields.shopify--discovery--product_recommendation.complementary_products),Related products (product.metafields.shopify--discovery--product_recommendation.related_products),Related products settings (product.metafields.shopify--discovery--product_recommendation.related_products_display),Search product boosts (product.metafields.shopify--discovery--product_search_boost.queries),Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Status
+califento,Califento (Inspired by Louis Vuitton Pacific Chill),"<p>Inspired by: Louis Vuitton Pacific Chill</p>
+<p>Morning mist rises along Pacific cliffs. Minted citrus, sun-warmed fig, and green sweetness unfold in waves. Califento is a breath of coastal calm and clean renewal.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"citrus, clean, fig, fresh, unisex",true,Engraving,No,,,,,,,,Califento,50.0,shopify,44,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/2-01.jpg?v=1761302582,1,"",false,,,"Top: Citron, Orange, Mint, Lemon
+
+Middle: Apricot, Basil, Carrot Seed
+
+Base: Fig, Dates, Ambrette","Ideal for early starts, casual layers, and post-shower freshness.",,,,,,,,,,,kg,,,active
+califento,,,,,,,,,Yes +5SGD,,,,,,,,Califento,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/califento_df4ed81c-87e0-4ed0-95ee-d175dea616f3.jpg?v=1761302582,2,"",,,,,,,,,,,,,,,,kg,,,
+califento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tranquil_Coastal_View.png?v=1761302633,3,"",,,,,,,,,,,,,,,,,,,
+califento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/rosa-rafael-0q5e3uiAOHA-unsplash_1.jpg?v=1761302633,4,"",,,,,,,,,,,,,,,,,,,
+califento,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Califento_831fa8dc-0015-4e46-a3b6-fbdd5d9fa179.jpg?v=1761992952,5,"",,,,,,,,,,,,,,,,,,,
+cannes,Cannes (Inspired by Bleu de Chanel-2018),"<p>Inspired by: Bleu de Chanel</p>
+<p>Côte d’Azur at twilight. Crisp linen, lemon zest, and a salt-laced breeze at the collar. Cannes evokes polished masculinity that feels cool, luminous, and balanced.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"aquatic, citrus, fresh, masculine",true,Engraving,No,,,,,,,,Cannes,50.0,shopify,37,deny,manual,39.00,45.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/connas.jpg?v=1761299907,1,"",false,,,"Top: Grapefruit, Lemon, Mint, Pink Pepper
+
+Middle: Ginger, Jasmine, Nutmeg
+
+Base: Sandalwood, Cedar, Incense, Tonka Bean","Perfect for daily wear, both formal and casual. Clean yet complex.",'1,,,,,,,,,,kg,,,active
+cannes,,,,,,,,,Yes +5SGD,,,,,,,,Cannes,50.0,shopify,10,deny,manual,54.00,50.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/cannes_0e9bb39b-7b5b-4a0f-bdb3-a2b63bace017.jpg?v=1761299907,2,"",,,,,,,,,,,,,,,,kg,,,
+cannes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tranquil_Coastal_View.png?v=1761302633,3,"",,,,,,,,,,,,,,,,,,,
+cannes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/rosa-rafael-0q5e3uiAOHA-unsplash_1.jpg?v=1761302633,4,"",,,,,,,,,,,,,,,,,,,
+cannes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Cannes_76d3a0c5-956f-4d58-b5f7-a8b72a00d878.jpg?v=1761993031,5,"",,,,,,,,,,,,,,,,,,,
+denvor,Denvor (Inspired by Dior Sauvage Elixir),"<p>Inspired by: Dior Sauvage Elixir</p>
+<p>Metal cooled by mountain wind. Rough pine cracked underfoot. A portrait of terrain-wild, modern, unsentimental.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"masculine, rugged, spicy, warm, woody",true,Engraving,No,,,,,,,,Denvor,50.0,shopify,41,deny,manual,39.00,45.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/brnding_2-02.jpg?v=1761301708,1,"",false,,,"Top: Grapefruit, Cinnamon, Cardamom
+
+Middle: Lavender, Coumarin
+
+Base: Amber, Patchouli, Vetiver, Licorice","Versatile. Strong projection, ideal for bold presence.",,,,,,,,,,,kg,,,active
+denvor,,,,,,,,,Yes +5SGD,,,,,,,,Denvor,50.0,shopify,10,deny,manual,44.00,50.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Denvor_116cbd67-f2a3-49fe-b30b-097848763c68.jpg?v=1761301708,2,"",,,,,,,,,,,,,,,,kg,,,
+denvor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+denvor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+denvor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Denvor_801ae412-be0e-4dec-8fd4-c6081ae6be78.jpg?v=1761993721,5,"",,,,,,,,,,,,,,,,,,,
+dohae,Dohae (Inspired by Louis Vuitton Imagination),"<p>Inspired by: Louis Vuitton Imagination</p>
+<p>Silk glides through desert air. A mirage takes form as citron glows, black tea cools, and cinnamon hums softly beneath it all. Dohae captures airy elegance with a modern edge.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"airy, citrus, fresh, tea, unisex",true,Engraving,No,,,,,,,,Dohae,50.0,shopify,38,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Fresh_2.jpg?v=1761299731,1,"",false,,,"Top: Citron, Orange, Bergamot
+
+Middle: Ginger, Neroli, Cinnamon
+
+Base: Black Tea, Guaiac Wood, Ambroxan",Best for quiet afternoons or elegant settings with light airflow.,,,,,,,,,,,kg,,,active
+dohae,,,,,,,,,Yes +5SGD,,,,,,,,Dohae,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/dohae_972f258a-a406-4d88-a935-48a5af05dbda.jpg?v=1761299731,2,"",,,,,,,,,,,,,,,,kg,,,
+dohae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tranquil_Coastal_View.png?v=1761302633,3,"",,,,,,,,,,,,,,,,,,,
+dohae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/rosa-rafael-0q5e3uiAOHA-unsplash_1.jpg?v=1761302633,4,"",,,,,,,,,,,,,,,,,,,
+dohae,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Dohae_32a00e2c-8814-46a9-85b3-3ec3f19196f6.jpg?v=1761993263,5,"",,,,,,,,,,,,,,,,,,,
+galren,Galren (Inspired by Creed Green Irish Tweed),"<p>Inspired by: Creed Green Irish Tweed</p>
+<p>Green cliffs of Connemara. Rain-washed stone, breeze off the coast, and crushed mint underfoot. Galren distills Celtic clarity into something sharp, clean, and quiet.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"citrus, fresh, green, unisex",true,Engraving,No,,,,,,,,Galren,50.0,shopify,46,deny,manual,39.00,45.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Garla.jpg?v=1761299832,1,"",false,,,"Top: Lemon, Mint, Verbena
+
+Middle: Violet Leaf
+
+Base: Sandalwood, Ambergris","Fresh and light, ideal for spring mornings or post-rain walks.",,,,,,,,,,,kg,,,active
+galren,,,,,,,,,Yes +5SGD,,,,,,,,Galren,50.0,shopify,10,deny,manual,44.00,50.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/galren_55548407-f097-4013-aec6-3abf7e3a02bf.jpg?v=1761299832,2,"",,,,,,,,,,,,,,,,kg,,,
+galren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tranquil_Coastal_View.png?v=1761302633,3,"",,,,,,,,,,,,,,,,,,,
+galren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/rosa-rafael-0q5e3uiAOHA-unsplash_1.jpg?v=1761302633,4,"",,,,,,,,,,,,,,,,,,,
+galren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Galren_74219e80-d50f-4217-b48f-c57d7530fe29.jpg?v=1761993186,5,"",,,,,,,,,,,,,,,,,,,
+halfyre,Halfyre (Inspired by Penhaligon’s Halfeti),"<p>Inspired by: Penhaligon’s Halfeti</p>
+<p>Dark roses by the river. Saffron heat, oud depth, leather tension. A story in shadow and spice.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"floral, leather, oud, spice, unisex, warm",true,Engraving,No,,,,,,,,Halfyre,50.0,shopify,43,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/brnding_2-03.jpg?v=1761302182,1,"",false,,,"Top: Grapefruit, Saffron, Cypress
+
+Middle: Rose, Nutmeg, Jasmine
+
+Base: Oud, Leather, Amber, Vanilla, Tonka, Sandalwood","For deep nights, layered textures, and private conversations.",,,,,,,,,,,kg,,,active
+halfyre,,,,,,,,,Yes +5SGD,,,,,,,,Halfyre,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/halfyre_1a06bce5-2220-4857-a6ee-f7eb166340ad.jpg?v=1761302182,2,"",,,,,,,,,,,,,,,,kg,,,
+halfyre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+halfyre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+halfyre,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Halfyre_ae832063-2b79-4794-a695-3f40427271a5.jpg?v=1761993874,5,"",,,,,,,,,,,,,,,,,,,
+havanoir,Havanoir (Inspired by Tom Ford Tobacco Vanille),"<p>Inspired by: Tom Ford Tobacco Vanille</p>
+<p>Havana in velvet hour-tobacco rolled in dim parlors, vanilla drifting over jazz chords, the soft clink of a glass nearby. Grounded in smoky Cuban soul.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"smoky, tobacco, unisex, vanilla, warm",true,Engraving,No,,,,,,,,Havanoir,50.0,shopify,49,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/brnding_1-02.jpg?v=1761301759,1,"",false,,,"Top: Tobacco Leaf, Spices
+
+Middle: Vanila, Cacoa, Tonka Bean, Tobacco Blossom
+
+Base: Dried Fruits, Woody Notes","Perfect for nights, close gatherings, and smoky settings.",,,,,,,,,,,kg,,,active
+havanoir,,,,,,,,,Yes +5SGD,,,,,,,,Havanoir,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Havanoir_150f9ddb-1f2b-4f54-85ed-7b0433b413d2.jpg?v=1761301759,2,"",,,,,,,,,,,,,,,,kg,,,
+havanoir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+havanoir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+havanoir,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Havanoir_3c0f69d2-c253-4d1f-9a84-630c83c0f43e.jpg?v=1761994033,5,"",,,,,,,,,,,,,,,,,,,
+lucerna,Lucerna (Inspired by Creed Silver Mountain Water),"<p>Inspired by: Creed Silver Mountain Water</p>
+<p><meta charset=""utf-8"">Inspired by alpine serenity with crisp air, flowing streams, and snow-kissed peaks. Lucerna reflects purity, tranquility, and timeless cool.<br></p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"aquatic, citrus, clean, creed, creed silver mountain water, floral, green, refined, silver mountain water",true,Engraving,No,,,,,,,,Lucerna,50.0,shopify,36,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/1-01-01-01.jpg?v=1761302633,1,"",false,Lucerna - Inspired by Creed Silver Mountain Water | Fresh Alpine Fragrance,"Lucerna perfume inspired by Creed Silver Mountain Water. Experience alpine serenity with crisp, clean notes. Premium fragrance alternative at FUMEHUB.","Top: Bergamot, Mandarin Orange
+
+Middle: Green Tea, Blackcurrant
+
+Base: Musk, Sandalwood, Petitgrain, Galbanum",Best for humid days or sunlit moments. A versatile everyday scent with alpine freshness.,'1,special-occasion; everyday,citrus; fresh; aquatic,fall; spring; summer,,,,,,,kg,,,active
+lucerna,,,,,,,,,Yes +5SGD,,,,,,,,Lucerna,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/romana_721f2c3d-58c9-4016-8bfd-8fb286469d0a.jpg?v=1761302633,2,"",,,,,,,,,,,,,,,,kg,,,
+lucerna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tranquil_Coastal_View.png?v=1761302633,3,"",,,,,,,,,,,,,,,,,,,
+lucerna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/rosa-rafael-0q5e3uiAOHA-unsplash_1.jpg?v=1761302633,4,"",,,,,,,,,,,,,,,,,,,
+lucerna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Lucerna_ed1c31d7-e93c-404a-bef3-fc4b5c4f39b7.jpg?v=1761992187,5,"",,,,,,,,,,,,,,,,,,,
+lyona,Lyona (Inspired by Bianco Latte – Giardini Di Toscana),"<p>Inspired by: Bianco Latte – Giardini Di Toscana</p>
+<p>White sun on cream skin. Lyona distills Bianco Latte into pure soft luxury-caramel and vanilla warmed by amber and musk. A cocoon in scent form.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"feminine, gourmand, sweet, vanilla, warm",true,Engraving,No,,,,,,,,Lyona,50.0,shopify,37,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Warm_1.jpg?v=1761302496,1,"",false,,,"Top: Caramel
+
+Middle: Honey, Coumarin
+
+Base: Vanilla, White Musk","Perfect for close spaces, soft knits, and low winter light.",,,,,,,,,,,kg,,,active
+lyona,,,,,,,,,Yes +5SGD,,,,,,,,Lyona,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/lyona_f5c7849b-8f79-4e40-81b0-90e976fea571.jpg?v=1761302496,2,"",,,,,,,,,,,,,,,,kg,,,
+lyona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+lyona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+lyona,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Lyona_cc7a6aec-8e36-42ab-a0a2-29868d380ccf.jpg?v=1761993808,5,"",,,,,,,,,,,,,,,,,,,
+maraska,Maraska (Inspired by Xerjoff Erba Pura),"<p>Inspired by: Xerjoff Erba Pura</p>
+<p>Adriatic sun on fruit skin. A breeze from inland orchards. Maraska reframes Erba Pura as a bright, ripe composition-citrus and musk stretched out over golden hours, vivid and free.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"citrus, fruity, musk, unisex, vibrant",true,Engraving,No,,,,,,,,Maraska,50.0,shopify,43,deny,manual,39.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/fruity_bottles-01.jpg?v=1761302786,1,"",false,,,"Top: Orange, Bergamot, Lemon
+
+Middle: Fruity Accord
+
+Base: Vanilla, White Musk, Amber","Ideal for daylight, outdoor events, and spring/summer energy.",,,,,,,,,,,kg,,,active
+maraska,,,,,,,,,Yes +5SGD,,,,,,,,Maraska,50.0,shopify,10,deny,manual,44.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/maraska_b8a34f91-f388-4665-94d6-5191cb9ab60c.jpg?v=1761302786,2,"",,,,,,,,,,,,,,,,kg,,,
+maraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Artful_Assortment_of_Summer_Fruits.png?v=1761561276,3,"",,,,,,,,,,,,,,,,,,,
+maraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Woman_with_Pie_in_Cozy_Kitchen.png?v=1761561276,4,"",,,,,,,,,,,,,,,,,,,
+maraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Maraska_1b788a67-b6a2-4ae0-a3df-2fac76d92a2a.jpg?v=1761992842,5,"",,,,,,,,,,,,,,,,,,,
+milano,Milano (Inspired by Emporio Armani Stronger With You Intensely),"<p>Inspired by: Emporio Armani Stronger With You Intensely</p>
+<p>Spice and suede in slow burn. City walks at dusk-Italian charm wrapped in warmth.</p>",FUMEHUB,Uncategorized,Perfume,"modern, spice, suede, sweet, warm",true,Engraving,No,,,,,,,,Milano,50.0,shopify,48,deny,manual,39.00,45.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/brnding_2-04.jpg?v=1761302461,1,"",false,,,"Top: Pink Pepper, Juniper
+
+Middle: Lavender, Violet, Toffee
+
+Base: Vanilla, Amber, Suede, Tonka","Ideal for dinners, dusk, and cool-weather casual layers.",'1,,,,,,,,,,kg,,,active
+milano,,,,,,,,,Yes +5SGD,,,,,,,,Milano,50.0,shopify,10,deny,manual,44.00,50.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/milano_eab4574e-39eb-4f77-a5a3-f1c5d21e3883.jpg?v=1761302461,2,"",,,,,,,,,,,,,,,,kg,,,
+milano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/alex-dekker-HZU1ubAgooE-unsplash.jpg?v=1761302461,3,"",,,,,,,,,,,,,,,,,,,
+milano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/alex_rainer-D3z5uMvznkU-unsplash_1.jpg?v=1761302461,4,"",,,,,,,,,,,,,,,,,,,
+milano,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Milano_2b9c8852-511c-414e-a87c-500531fd7e20.jpg?v=1761993342,5,"",,,,,,,,,,,,,,,,,,,
+monel,Monel (Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 EDP),"<p>Inspired by: Maison Francis Kurkdjian Baccarat Rouge 540 EDP</p>
+<p>Glass heat. Gold shimmer on skin. Amber turned vapor-sweetness held in tension.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"amber, elegant, gold, unisex, warm",true,Engraving,No,,,,,,,,Monel,50.0,shopify,49,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Warm_4.jpg?v=1761300109,1,"",false,,,"Top: Saffron, Jasmine
+
+Middle: Amberwood, Bitter Almond
+
+Base: Cedar, Musk, Ambergris",A signature scent for refined presence and luminous character.,,,,,,,,,,,kg,,,active
+monel,,,,,,,,,Yes +5SGD,,,,,,,,Monel,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/monel_8a070a68-e194-483b-a4e5-2c04f521000b.jpg?v=1761300109,2,"",,,,,,,,,,,,,,,,kg,,,
+monel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+monel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+monel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Monel_341cbbce-1893-4879-9910-fc1d29b49f21.jpg?v=1761993574,5,"",,,,,,,,,,,,,,,,,,,
+napolia,Napolia (Inspired by Creed Aventus Absolu),"<p>Inspired by: Creed Aventus Absolu</p>
+<p>In the heart of Naples, stone walls radiate warmth, citrus peel scents the air, and smoke curls from old chimneys. Napolia channels Mediterranean boldness into a story of fire and heritage.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"citrus, fresh, italian, smoky",true,Engraving,No,,,,,,,,Napolia,50.0,shopify,44,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Fresh_1.jpg?v=1761299655,1,"",false,,,"Top: Grapefruit, Bergamot, Pineapple, Pink Pepper
+
+Middle: Ginger, Cinnamon, Rose, Patchouli
+
+Base: Oakmoss, Sandalwood, Musk, Ambroxan, Tonka Bean",Best worn in evenings or colder months. Commands attention.,,,,,,,,,,,kg,,,active
+napolia,,,,,,,,,Yes +5SGD,,,,,,,,Napolia,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Napolia_666acd1b-253f-4f22-b56a-5c77be05c90f.jpg?v=1761299655,2,"",,,,,,,,,,,,,,,,kg,,,
+napolia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tranquil_Coastal_View.png?v=1761302633,3,"",,,,,,,,,,,,,,,,,,,
+napolia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/rosa-rafael-0q5e3uiAOHA-unsplash_1.jpg?v=1761302633,4,"",,,,,,,,,,,,,,,,,,,
+napolia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Napolia_4f9aedd5-1dff-4b28-bddf-2d562b8ffdfe.jpg?v=1761993103,5,"",,,,,,,,,,,,,,,,,,,
+naxour,Naxour (Inspired by Xerjoff Naxos),"<p>Inspired by: Xerjoff Naxos</p>
+<p>Sun on limestone. Honey folded into breeze. Golden citrus and grounded warmth-bright, tobacco-rich, timeless.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"citrus, honey, spicy, tobacco, warm",true,Engraving,No,,,,,,,,Naxour,50.0,shopify,45,deny,manual,39.00,45.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/naxor.jpg?v=1761299948,1,"",false,,,"Top: Lemon, Lavender, Bergamot
+
+Middle: Honey, Jasmine, Cinnamon
+
+Base: Tobacco, Tonka, Vanilla",All-season wear for those who balance intensity with charm.,,,,,,,,,,,kg,,,active
+naxour,,,,,,,,,Yes +5SGD,,,,,,,,Naxour,50.0,shopify,10,deny,manual,44.00,50.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/naxour_1186602b-8929-4d0f-9bda-853ac233fb85.jpg?v=1761299948,2,"",,,,,,,,,,,,,,,,kg,,,
+naxour,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+naxour,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+naxour,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Naxour_11945b1e-9da5-4226-b882-0bd638517f96.jpg?v=1761993416,5,"",,,,,,,,,,,,,,,,,,,
+orlyn,Orlyn (Inspired by Kilian's Angels Share),"<p>Inspired by: Kilian's Angels Share</p>
+<p>Late night. Glass of cognac. Wood-paneled silence. Oak, cinnamon, praline-every note lands in candlelight.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"cognac, spicy, unisex, warm, wood",true,Engraving,No,,,,,,,,Orlyn,50.0,shopify,42,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/brnding_1-03.jpg?v=1761302403,1,"",false,,,"Top: Cognac
+
+Middle: Cinnamon, Tonka Bean, Oak
+
+Base: Praline, Vanilla, Sandalwood",Best worn after dark. Intimate and elegant.,,,,,,,,,,,kg,,,active
+orlyn,,,,,,,,,Yes +5SGD,,,,,,,,Orlyn,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/orlyn_2e654314-cce4-42bc-a0f2-fb0051e34578.jpg?v=1761302403,2,"",,,,,,,,,,,,,,,,kg,,,
+orlyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+orlyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+orlyn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Orlyn_9bc743f0-4d9d-426f-96af-a68415205614.jpg?v=1761993958,5,"",,,,,,,,,,,,,,,,,,,
+parisienne,Parisienne (Inspired by Chanel No. 5),"<p>Inspired by: Chanel No. 5</p>
+<p>Powdered silk and memory. Parisienne draws from aldehydic architecture-florals diffused into light, warmth carried in musk and amber. Timeless without sentiment.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"classic, floral, powdery, timeless",true,Engraving,No,,,,,,,,Parisienne,50.0,shopify,43,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/fruity_bottles-01.jpg?v=1761302786,1,"",false,,,"Top: Aldehydes, Neroli, Ylang-Ylang
+
+Middle: Jasmine, Rose, Iris
+
+Base: Sandalwood, Musk, Vanilla, Amber",Best worn when subtlety is power—quiet elegance in form.,,,,,,,,,,,kg,,,active
+parisienne,,,,,,,,,Yes +5SGD,,,,,,,,Parisienne,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/parsienne_20b370eb-906d-4cd1-8b3d-932692d082d2.jpg?v=1761302759,2,"",,,,,,,,,,,,,,,,kg,,,
+parisienne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Romantic_Floral_Display.png?v=1761302759,3,"",,,,,,,,,,,,,,,,,,,
+parisienne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Woman_with_Mimosa_Blossoms.png?v=1761302759,4,"",,,,,,,,,,,,,,,,,,,
+parisienne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Parisienne_1ef20fed-c6ec-4eac-bf33-5ae6911553db.jpg?v=1761992400,5,"",,,,,,,,,,,,,,,,,,,
+persia,Persia (Inspired by Maison Francis Kurkdjian Oud Satin Mood EDP),"<p>Inspired by: Maison Francis Kurkdjian Oud Satin Mood EDP</p>
+<p>Velvet oud. Rose haze. Persia reinterprets opulent restraint-Persian grandeur in smoke and silk. Dark woods, sugared rose, gold-threaded night.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"amber, feminine, floral, oud, rose, warm",true,Engraving,No,,,,,,,,Persia,50.0,shopify,43,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Warm_2.jpg?v=1761302537,1,"",false,,,"Top: Violet, Rose
+
+Middle: Turkish Rose, Vanilla
+
+Base: Oud, Benzoin, Amber, Cedar","Suited for formal evenings, winter layering, and statement entries.",,,,,,,,,,,kg,,,active
+persia,,,,,,,,,Yes +5SGD,,,,,,,,Persia,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/persia_b85373bd-0284-4886-989b-538be386e09d.jpg?v=1761302537,2,"",,,,,,,,,,,,,,,,kg,,,
+persia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+persia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+persia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Persia_716a2c4a-e14b-4ce8-b23a-294b0d9f4204.jpg?v=1761993498,5,"",,,,,,,,,,,,,,,,,,,
+romania,Romania (Inspired by Valentino Donna Born in Roma Intense),"<p>Inspired by: Valentino Donna Born in Roma Intense</p>
+<p>Amber through cathedral glass. Romana softens into a glowing floral core-vanilla draped in jasmine and resin. Feminine with presence. Grace under flame.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"amber, floral, radiant, vanilla",true,Engraving,No,,,,,,,,Romania,50.0,shopify,43,deny,manual,39.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/brnding_2-01.jpg?v=1761302296,1,"",false,,,"Top: Bourbon Vanilla
+
+Middle: Jasmine, Amber
+
+Base: Benzoin","Suited for evenings, candlelit interiors, or velvet fabrics.",,,,,,,,,,,kg,,,active
+romania,,,,,,,,,Yes +5SGD,,,,,,,,Romania,50.0,shopify,10,deny,manual,44.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/romania_e0eed158-222c-4416-bc18-7c372d6a71de.jpg?v=1761302296,2,"",,,,,,,,,,,,,,,,kg,,,
+romania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Moody_Interior_Scene.png?v=1761302537,3,"",,,,,,,,,,,,,,,,,,,
+romania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Contemplative_Man_with_Colorful_Shadows.png?v=1761302537,4,"",,,,,,,,,,,,,,,,,,,
+romania,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Romania_b25843dc-4dc7-468b-a7d1-1a6a87a76bfe.jpg?v=1761993646,5,"",,,,,,,,,,,,,,,,,,,
+seoulene,Seoulene (Inspired by YSL Black Opium),"<p>Inspired by: Yves Saint Laurent Black Opium</p>
+<p>City midnight. Headlights sweep across chrome. Seoulene captures Black Opium’s nocturnal sweetness-coffee lit by jasmine, vanilla pulsing under metal. A portrait of urban heat and neon scent.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"coffee, floral, fruity, sweet, urban",true,Engraving,No,,,,,,,,Seoulene,50.0,shopify,40,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/floral_bottle-02.jpg?v=1761302799,1,"",false,,,"Top: Pink Pepper, Pear, Orange Blossom
+
+Middle: Coffee, Jasmine
+
+Base: Vanilla, Patchouli, Cedar","Nightlife-ready. Edgy, warm, and sensual.",,,,,,,,,,,kg,,,active
+seoulene,,,,,,,,,Yes +5SGD,,,,,,,,Seoulene,50.0,shopify,10,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/seoulene_60bbe44f-89a2-4427-a4e5-4b0241791159.jpg?v=1761302799,2,"",,,,,,,,,,,,,,,,kg,,,
+seoulene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Artful_Assortment_of_Summer_Fruits.png?v=1761561276,3,"",,,,,,,,,,,,,,,,,,,
+seoulene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Woman_with_Pie_in_Cozy_Kitchen.png?v=1761561276,4,"",,,,,,,,,,,,,,,,,,,
+seoulene,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Seoulene_16536edf-b6de-474c-8f67-441f0a87a3b0.jpg?v=1761992712,5,"",,,,,,,,,,,,,,,,,,,
+tokyora,Tokyora (Inspired by Prada Paradoxe),"<p>Inspired by: Prada Paradoxe</p>
+<p>Neon dust. Digital petals. Tokyora distills the paradox of soft and sharp into skin-futuristic femininity shaped by citrus, neroli, and light. Powder and signal.</p>",FUMEHUB,Health & Beauty > Personal Care > Cosmetics > Perfumes & Colognes > Eaux de Parfum,Perfume,"citrus, feminine, floral, fruity, modern",true,Engraving,No,,,,,,,,Tokyora,50.0,shopify,10,deny,manual,49.00,55.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/fruity_bottles-02.jpg?v=1761561276,1,"",false,,,"Top: Pear, Bergamot, Tangerine
+
+Middle: Neroli, Jasmine, Orange Blossom
+
+Base: Vanilla, Musk, Amber, Benzoin",Great for casual sophistication and layered city moods.,'1,,,,,,,,,,kg,,,active
+tokyora,,,,,,,,,Yes +5SGD,,,,,,,,Tokyora,50.0,shopify,34,deny,manual,54.00,60.00,true,true,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/tokyora_a88c524f-a9d4-457e-8ac4-24178beff19f.jpg?v=1761561276,2,"",,,,,,,,,,,,,,,,kg,,,
+tokyora,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Artful_Assortment_of_Summer_Fruits.png?v=1761561276,3,"",,,,,,,,,,,,,,,,,,,
+tokyora,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Woman_with_Pie_in_Cozy_Kitchen.png?v=1761561276,4,"",,,,,,,,,,,,,,,,,,,
+tokyora,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0939/6407/5294/files/Tokyora_7803cd6b-c16d-443b-801c-400425c5d525.jpg?v=1761992552,5,"",,,,,,,,,,,,,,,,,,,
