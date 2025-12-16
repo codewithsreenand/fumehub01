@@ -1,0 +1,72 @@
+from pydantic import BaseModel
+from datetime import datetime
+from typing import List
+from uuid import UUID
+from typing import Optional
+
+class ProductImageBase(BaseModel):
+  id : UUID
+  product_id : UUID
+  path : str
+  alt : str
+  url : str
+  class Config:
+        orm_mode = True
+        from_attributes = True
+
+class ProductBase(BaseModel):
+  id : UUID
+  title :str
+  code : str
+  description :str
+  active : bool
+  price : float
+  category:str
+  actual_price : float
+  created_at : datetime
+  stock:int
+  product_metadata :dict | List
+  images: List[ProductImageBase]
+  featured:bool
+  collection: str | None
+  class Config:
+        orm_mode = True
+        from_attributes = True
+
+class ProductResponse(ProductBase):
+  review_count: int | None =  None
+  avg_rating: float | None =  None
+  related_products: Optional[List["ProductListResponse"]] = None  # <- add this
+  class Config:
+    orm_mode = True
+    from_attributes=True
+
+class ProductCreate(BaseModel):
+  pass
+
+class ProductListResponse(BaseModel):
+  title: str
+  code : str
+  category:str
+  actual_price: float
+  price: float
+  image: str
+  stock : int
+  collection: str | None
+  id : UUID
+  class Config:
+    orm_mode = True
+
+class ProductAdminListResponse(ProductBase):
+  title: str
+  id:UUID
+  code : str
+  category:str
+  actual_price: float
+  price: float
+  stock : int 
+  collection: str | None
+  total_sold: int | None =None
+  class Config:
+    orm_mode = True
+    from_attributes=True
